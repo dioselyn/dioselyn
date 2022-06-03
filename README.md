@@ -13,6 +13,11 @@ Latest Projects:
  - ❤️ Template Yard Sale **https://dioselyn.github.io/yard-sale/**
 
 
+                                     🐼 I LOVE PANDAS 
+
+![PandaHugGIF](https://user-images.githubusercontent.com/47191463/171948411-c10e6f99-a7ea-474d-af7e-227fd045f0df.gif)
+
+
 
 
 
