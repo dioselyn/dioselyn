@@ -9,7 +9,7 @@ Latest Projects:
  - 👽 Rick and Morty API **https://dioselyn.github.io/rick-and-morty-api/**
  - ✍️ Tasks **https://dioselyn.github.io/tasks/**
  - 🪙 API Coingecko  **https://dioselyn.github.io/crypto-coingecko/**
- - 📷 Plugin LazyLoad **https://dioselyn.github.io/lazy-load/**
+ - 📷 Plugin Lazy Load **https://dioselyn.github.io/lazy-load/**
  - ❤️ Template Yard Sale **https://dioselyn.github.io/yard-sale/**
 
 
