@@ -2,7 +2,7 @@
 <p> 👋 Hi, I’m <a href="https://portfolio.developdctech.com">Dioselyn</a>, Millennials, Venezuelan, Frontend Developer Spacialized in ReactJS.</p>
 <p> 👀 I’m interested in Technology, Programming, Marketing, healthy Mind and Body.</p>
 <p> 🌱 I’m currently learning English, Programming, better practices and healthy lifestyle. </p>
-<p> 💞️ I’m looking to collaborate on web programming projects in which you can continue to grow.</p>
+<p> 💞️ I’m looking to collaborate on web programming projects in which I can continue to grow.</p>
 
 <h2>Latest Projects:</h2>
 
