@@ -5,7 +5,7 @@
 <p> 💞️ I’m looking to collaborate on web programming projects in which I can continue to grow.</p>
 
 <h2>Latest Projects:</h2>
-
+ - 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app/">Pokémon</a> 
  - 👽 <a href="https://dioselyn.github.io/rick-and-morty-api/">Rick and Morty API</a> 
  - ✍️ <a href="https://dioselyn.github.io/tasks/">Tasks</a>
  - 🪙 <a href="https://dioselyn.github.io/crypto-coingecko/">API Coingecko </a> 
