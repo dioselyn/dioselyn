@@ -5,12 +5,14 @@
 <p> 💞️ I’m looking to collaborate on web programming projects in which I can continue to grow.</p>
 
 <h2>Latest Projects:</h2>
- - 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app/">Pokémon</a> 
- - 👽 <a href="https://dioselyn.github.io/rick-and-morty-api/">Rick and Morty API</a> 
- - ✍️ <a href="https://dioselyn.github.io/tasks/">Tasks</a>
- - 🪙 <a href="https://dioselyn.github.io/crypto-coingecko/">API Coingecko </a> 
- - 📷 <a href="https://dioselyn.github.io/lazy-load/">Plugin Lazy Load</a>
- - ❤️ <a href="https://dioselyn.github.io/yard-sale/">Template Yard Sale</a>
+<ul>
+ <li> 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app/">Pokémon</a> </li>
+ <li> 👽 <a href="https://dioselyn.github.io/rick-and-morty-api/">Rick and Morty API</a> </li>
+ <li> ✍️ <a href="https://dioselyn.github.io/tasks/">Tasks</a> </li>
+ <li> 🪙 <a href="https://dioselyn.github.io/crypto-coingecko/">API Coingecko </a> </li>
+ <li> 📷 <a href="https://dioselyn.github.io/lazy-load/">Plugin Lazy Load</a></li>
+ <li> ❤️ <a href="https://dioselyn.github.io/yard-sale/">Template Yard Sale</a></li>
+	</ul>
 
 
 <h2>🐼 I love Pandas</h2>
