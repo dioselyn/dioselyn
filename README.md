@@ -6,7 +6,7 @@
 
 <h2>Latest Projects:</h2>
 <ul>
- <li> 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app/">Pokémon</a> </li>
+ <li> 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app/" target='_blank'>Pokémon</a> </li>
  <li> 👽 <a href="https://dioselyn.github.io/rick-and-morty-api/">Rick and Morty API</a> </li>
  <li> ✍️ <a href="https://dioselyn.github.io/tasks/">Tasks</a> </li>
  <li> 🪙 <a href="https://dioselyn.github.io/crypto-coingecko/">API Coingecko </a> </li>
