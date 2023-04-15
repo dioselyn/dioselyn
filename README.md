@@ -7,13 +7,13 @@
 <h2>Latest Projects:</h2>
 <ul>
  <li> 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app" target="_blank" rel="noopener noreferrer">Pokémon</a> </li>
- <li> ❤️ <a href="https://dioselyn.github.io/vitalinea" target="_blank" rel="noopener noreferrer">Vitalinea</a></li>
+ <li> ❤️ <a href="https://dioselyn.github.io/vitalinea" target="_blank" rel="noopener noreferrer">Vitalínea</a></li>
  <li> 👽 <a href="https://dioselyn.github.io/rick-and-morty-api" target="_blank" rel="noopener noreferrer">Rick and Morty API</a> </li>
- <li> ✍️ <a href="https://dioselyn.github.io/tasks" target="_blank" rel="noopener noreferrer">Tasks</a> </li>
+ <li> ✍️ <a href="https://dioselyn.github.io/tasks" target="_blank" rel="noopener noreferrer">Tasks</a></li>
  <li> 🪙 <a href="https://dioselyn.github.io/crypto-coingecko" target="_blank" rel="noopener noreferrer">API Coingecko </a> </li>
  <li> 📷 <a href="https://dioselyn.github.io/lazy-load" target="_blank" rel="noopener noreferrer">Plugin Lazy Load</a></li>
  <li> ❤️ <a href="https://dioselyn.github.io/yard-sale" target="_blank" rel="noopener noreferrer">Template Yard Sale</a></li>
-	</ul>
+</ul>
 
 
 <h2>🐼 I love Pandas</h2>
