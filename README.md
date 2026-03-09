@@ -31,14 +31,14 @@ I'm open to collaborating on **web development projects**, contributing to **mod
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dioselyn&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=dioselyn&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioselyn&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioselyn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
