@@ -1,24 +1,51 @@
-<h1>About Me</h1>
-<p> 👋 Hi, I’m <a href="https://portfolio.developdctech.com">Dioselyn</a>, Millennials, Venezuelan, Frontend Developer Spacialized in ReactJS.</p>
-<p> 👀 I’m interested in Technology, Programming, Marketing, healthy Mind and Body.</p>
-<p> 🌱 I’m currently learning English, Programming, better practices and healthy lifestyle. </p>
-<p> 💞️ I’m looking to collaborate on web programming projects in which I can continue to grow.</p>
+# Hi, I'm Dioselyn 👋
 
-<h2>Latest Projects:</h2>
-<ul>
- <li> 🐅 <a href="https://pokemons-lt6x8wy18-dioselyn.vercel.app" target="_blank" rel="noopener noreferrer">Pokémon</a> </li>
- <li> ❤️ <a href="https://dioselyn.github.io/vitalinea" target="_blank" rel="noopener noreferrer">Vitalínea</a></li>
- <li> 👽 <a href="https://dioselyn.github.io/rick-and-morty-api" target="_blank" rel="noopener noreferrer">Rick and Morty API</a> </li>
- <li> ✍️ <a href="https://dioselyn.github.io/tasks" target="_blank" rel="noopener noreferrer">Tasks</a></li>
- <li> 🪙 <a href="https://dioselyn.github.io/crypto-coingecko" target="_blank" rel="noopener noreferrer">API Coingecko </a> </li>
- <li> 📷 <a href="https://dioselyn.github.io/lazy-load" target="_blank" rel="noopener noreferrer">Plugin Lazy Load</a></li>
- <li> ❤️ <a href="https://dioselyn.github.io/yard-sale" target="_blank" rel="noopener noreferrer">Template Yard Sale</a></li>
-</ul>
+Front-End Developer with 5+ years of experience building modern, scalable web applications.
 
+I specialize in developing high-performance interfaces using **React, Next.js, JavaScript, and TypeScript**, with a strong focus on **UI/UX, accessibility, performance, and clean, maintainable code**.
 
-<h2>🐼 I love Pandas</h2>
+I enjoy creating intuitive digital experiences and collaborating with teams to build reliable, user-focused products.
 
-![PandaHugGIF](https://user-images.githubusercontent.com/47191463/171948411-c10e6f99-a7ea-474d-af7e-227fd045f0df.gif)
+---
+
+# 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Improving my English  
+- Advanced Front-End Architecture  
+- Performance Optimization  
+- Web Accessibility  
+
+---
+
+# 💼 Open to Collaboration
+
+I'm open to collaborating on **web development projects**, contributing to **modern front-end applications**, and building **high-quality digital products**.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dioselyn&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioselyn&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌎 Connect with me
+
+- LinkedIn: https://linkedin.com/in/dioselyn-colina
 
 
 
